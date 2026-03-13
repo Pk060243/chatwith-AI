@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Database/Config
+config.py  # ถ้าในนี้มีรหัสผ่าน DB
+node_modules/
+
+# Logs
+*.log
