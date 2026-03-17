@@ -1,4 +1,4 @@
-name: Deploy to EC2
+name: Deploy to Ubuntu
 
 on:
   push:
@@ -11,12 +11,13 @@ jobs:
       - name: Deploy via SSH
         uses: appleboy/ssh-action@master
         with:
-          host: ${{ secrets.EC2_HOST }}
-          username: ubuntu
-          key: ${{ secrets.EC2_SSH_KEY }}
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
-            cd ~/my-ai-app
+            cd /var/www/landlinkai/project
             git pull origin main
-            source venv/bin/activate
-            pip install -r requirements.txt
-            sudo systemctl restart my-ai-service
+            # ถ้าเป็น Go
+            go build -o main .
+            # ถ้าใช้ pm2 หรือ systemd ก็ restart ตรงนี้
+            sudo systemctl restart my-app.service
