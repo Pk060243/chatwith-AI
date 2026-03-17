@@ -17,4 +17,6 @@ jobs:
           script: |
             cd /var/www/landlinkai
             git pull origin main
-            sudo systemctl restart my-app.service
+            source venv/bin/activate
+            pip install -r requirements.txt
+            pm2 restart landlink-ai
