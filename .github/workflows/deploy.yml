@@ -15,9 +15,6 @@ jobs:
           username: ${{ secrets.USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
-            cd /var/www/landlinkai/project
+            cd /var/www/landlinkai
             git pull origin main
-            # ถ้าเป็น Go
-            go build -o main .
-            # ถ้าใช้ pm2 หรือ systemd ก็ restart ตรงนี้
             sudo systemctl restart my-app.service
