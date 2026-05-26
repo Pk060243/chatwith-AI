@@ -51,7 +51,7 @@ def get_user_id_from_jwt(token: str):
         print(f"❌ เกิดข้อผิดพลาด: {str(e)}")
         return None
 
-Settings.llm = GoogleGenAI(model="models/gemini-3.1-flash-lite-preview")
+Settings.llm = GoogleGenAI(model="models/gemini-3.1-flash-lite")
 Settings.embed_model = GoogleGenAIEmbedding(model_name="models/gemini-embedding-001",output_dimensionality=3072 )
 DB_URL = f"postgresql+asyncpg://{os.getenv('DATABASE_USER')}:{os.getenv('DB_PASSWORD')}@{os.getenv('DB_HOST')}:{os.getenv('DB_PORT')}/{os.getenv('DB_NAME')}"
 engine = create_async_engine(DB_URL)

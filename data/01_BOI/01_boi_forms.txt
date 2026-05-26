@@ -1,0 +1,88 @@
+## [หน่วยงาน: BOI — แบบฟอร์มและลิงก์ดาวน์โหลด]
+**หน้าที่:** รวมลิงก์แบบฟอร์มทางการจาก BOI สำหรับนักลงทุนที่ต้องการยื่นขอหรือแก้ไขโครงการ
+**ศูนย์รวมแบบฟอร์มทั้งหมด:** https://www.boi.go.th/index.php?page=form_app1&language=th
+*หมายเหตุ: หากลิงก์มีการเปลี่ยนแปลง หรือต้องการแบบฟอร์มเฉพาะทางอื่นๆ สามารถเข้าไปเลือกได้ที่หน้า "ศูนย์รวมแบบฟอร์ม" ของ BOI: https://www.boi.go.th/th/boi-forms/
+
+### [แบบฟอร์มคำขอรับการส่งเสริมการลงทุน]
+ใช้สำหรับยื่นขอรับการส่งเสริมครั้งแรก
+• คู่มือการกรอกคำขอ (ภาษาไทย): https://www.boi.go.th/upload/content/appication_guidelines_TH.pdf
+• คำขอทั่วไป F PA PP 01-08: https://www.boi.go.th/upload/content/F%20PA%20PP%2001_Th_e-Form_64741fdbe0823.pdf
+• คำขอประเภทบริการ F PA PP 03-09: https://www.boi.go.th/upload/content/F%20PA%20PP%2003_Th_e-Form_68e36be8e7ea8.pdf
+• คำขอกิจการดิจิทัล/ซอฟต์แวร์ F PA PP 04-09: https://www.boi.go.th/upload/content/F%20PA%20PP%2004%20_Th_e-Form.pdf
+• คำขอ SMEs F PA PP 29-05: https://www.boi.go.th/upload/content/F%20PA%20PP%2029_Th_e-Form_64742443c851c.pdf
+
+### [เอกสารประกอบการยื่นคำขอ]
+• แบบประกอบผลกระทบสิ่งแวดล้อมเบื้องต้น F PA PP 15-04: https://www.boi.go.th/upload/content/F%20PA%20PP%2015_Th_e-Form_63d34f883deb0.pdf
+• รายงานเอกสารหลักฐานประกอบ F PA PP 20-07: https://www.boi.go.th/upload/content/F%20PA%20PP%2020_Th_e-Form_63d34c4724c3c.pdf
+• แบบประกอบกิจการเทคโนโลยีชีวภาพ F PA PP 19-03: https://www.boi.go.th/upload/content/F%20PA%20PP%2019%20_Th_e-Form_63d351a4a4507.pdf
+• แบบประกอบ Biotechnology และวัสดุ F PA PP 45-01: https://www.boi.go.th/upload/content/F%20PA%20PP%2045_Th_e-Form_63d390b56f1fc.pdf
+
+### [มาตรการเสริมสร้างขีดความสามารถในการแข่งขัน]
+อ้างอิงประกาศ กกท. ที่ 10/2565: https://www.boi.go.th/upload/content/10_63b3e5b1100ad.pdf
+• แบบประกอบสิทธิประโยชน์เพิ่มเติม F PA PP 37-02: https://www.boi.go.th/upload/content/F%20PA%20PP%2037_Th_e-Form.pdf
+
+### [มาตรการสนับสนุนการจัดตั้งสถาบันพัฒนาบุคลากร]
+อ้างอิงประกาศ กกท. ที่ 11/2565: https://www.boi.go.th/upload/content/11_63b3e60308edd.pdf
+• แบบประกอบ F PA PP 60-00: https://www.boi.go.th/upload/content/F%20PA%20PP%2060_Th_e-Form_6819bf78b5572.pdf
+• คำขอรับการส่งเสริม F PA PP 61-00: https://www.boi.go.th/upload/content/F%20PA%20PP%2061_Th_e-Form_6819bfca0d0e4.pdf
+
+### [มาตรการส่งเสริมการย้ายฐานธุรกิจ (Relocation Program)]
+อ้างอิงประกาศ กกท. ที่ 13/2565: https://www.boi.go.th/upload/content/13_63b3e6588ebc8.pdf
+• แบบประกอบ F PA PP 62-01: https://www.boi.go.th/upload/content/F%20PA%20PP%2062_Th_e-Form_667a37019793c.pdf
+
+### [มาตรการกระตุ้นการลงทุน (Thailand Plus Plus)]
+• F PA PP 51-00: https://www.boi.go.th/upload/content/F%20PA%20PP%2051%20e-Form_63b3c6b69cfd2.pdf
+• F PA PP 55-01 (ปี 2564-2565): https://www.boi.go.th/upload/content/F%20PA%20PP%2055%20e-Form_63b3c74623beb.pdf
+• F PA PP 63-01 (ฟื้นฟูเศรษฐกิจ): https://www.boi.go.th/upload/content/F%20PA%20PP%2063_Th_e-Form_6819c7c7326b8.pdf
+
+### [มาตรการยกระดับอุตสาหกรรม (Smart and Sustainable Industry)]
+อ้างอิงประกาศ กกท. ที่ 15/2565: https://www.boi.go.th/upload/content/15_63b3e6854cb53.pdf
+• ระบบอัตโนมัติและหุ่นยนต์ F PA PP 46-03: https://www.boi.go.th/upload/content/F%20PA%20PP%2046_Th_e-Form_63db333bed4f8.pdf
+• อุตสาหกรรม 4.0 F PA PP 59-02: https://www.boi.go.th/upload/content/F%20PA%20PP%2059%20e-Form_662736b6abc16.pdf
+
+### [มาตรการปรับปรุงประสิทธิภาพสำหรับโครงการที่ดำเนินการอยู่แล้ว]
+• F PA PP 01-08: https://www.boi.go.th/upload/content/F%20PA%20PP%2001_Th_e-Form_6474246dddb4a.pdf
+• ปรับเปลี่ยนเครื่องจักร F PA PP 30-08: https://www.boi.go.th/upload/content/F%20PA%20PP%2030_Th_e-Form_671208b16ec8f.pdf
+• เทคโนโลยีดิจิทัล F PA PP 54-02: https://www.boi.go.th/upload/content/F%20PA%20PP%2054_Th_e-Form_65e6c9b53d032.pdf
+• อุตสาหกรรม 4.0 F PA PP 58-02: https://www.boi.go.th/upload/content/F%20PA%20PP%2058%20e-Form_66287b8157255.pdf
+• ประหยัดพลังงาน F PA PP 28-05: https://www.boi.go.th/upload/content/F%20PA%20PP%2028_Th_e-Form_63fc2e0355619.pdf
+
+### [มาตรการส่งเสริมการลงทุนในพื้นที่ EEC]
+อ้างอิงประกาศ กกท. ที่ 17/2565: https://www.boi.go.th/upload/content/17_63b62f17b20a5.pdf
+• F PA PP 47-02: https://www.boi.go.th/upload/content/F%20PA%20PP%2047_Th_e-Form_63fc7356f294d.pdf
+
+### [มาตรการส่งเสริมในพื้นที่ระเบียงเศรษฐกิจพิเศษ]
+อ้างอิงประกาศ กกท. ที่ 18/2565: https://www.boi.go.th/upload/content/18_63b62fa718fa0.pdf
+• F PA PP 66-00: https://www.boi.go.th/upload/content/F%20PA%20PP%2066_Th_e-Form_640063ea3cfa2.pdf
+
+### [มาตรการส่งเสริมในย่านนวัตกรรมการแพทย์]
+อ้างอิงประกาศ กกท. ที่ 23/2565: https://www.boi.go.th/upload/content/23_63b63030ab006.pdf
+• F PA PP 67-00: https://www.boi.go.th/upload/content/F%20PA%20PP%2067_Th_e-Form_643e0c935f424.pdf
+
+### [มาตรการส่งเสริมเพื่อพัฒนาชุมชนและสังคม]
+• F PA PP 39-05: https://www.boi.go.th/upload/content/F%20PA%20PP%2039_Th%20e-Form_67e3a0b9a86ec.pdf
+• Checklist F PA PP 49-02: https://www.boi.go.th/upload/content/F%20PA%20PP%2049_67b53830034ae.pdf
+• แบบประกอบ F PA PP 50-02: https://www.boi.go.th/upload/content/F%20PA%20PP%2050_Th%20e-Form_67e4baa2e1f28.pdf
+
+### [ระบบงานบัตรส่งเสริม]
+• ขยายเวลาตอบรับ F GA CT 01-02: https://www.boi.go.th/upload/content/F%20GA%20CT%2001e-form_17319.pdf
+• ขยายเวลาส่งหลักฐาน F GA CT 04-02: https://www.boi.go.th/upload/content/F%20GA%20CT%2004e-form_89389.pdf
+• แบบตอบรับการส่งเสริม F GA CT 07-02: https://www.boi.go.th/upload/content/F%20GA%20CT%2007%20Th%20e-form_14405.pdf
+• แบบประกอบรับบัตรส่งเสริม F GA CT 08-04: https://www.boi.go.th/upload/content/F%20GA%20CT%2008(Th)%20e-Form_62ba80c54cff7.pdf
+• รายการสาธารณูปโภคและแรงงาน F GA CT 13-03: https://www.boi.go.th/upload/content/F%20GA%20CT%2013(Th)%20e-form_60123328237fe.pdf
+
+### [การแก้ไขโครงการและโอนกิจการ]
+• แก้ไขโครงการ F PA PC 01-05: https://www.boi.go.th/upload/content/F%20PA%20PC%2001%20e-Form.pdf
+• แก้ไขอัตราส่วนผู้ถือหุ้น F PA PC 02-07: https://www.boi.go.th/upload/content/F%20PA%20PC%2002%20e-Form_5f0fc28d6c7cb.pdf
+• เปลี่ยนสถานที่ตั้ง F PA PC 03-09: https://www.boi.go.th/upload/content/F%20PA%20PC%2003%20e-Form_68be9a2c06dfd.pdf
+• แก้ไขทุนจดทะเบียน F PA PC 09-01: https://www.boi.go.th/upload/content/F%20PA%20PC%2009%20e-form_83385.pdf
+• เพิ่มกำลังการผลิต F PA PC 15-00: https://www.boi.go.th/upload/content/F%20PA%20PC%2015%20e-Form_60123017920c6.pdf
+• รับโอนกิจการ F PA PC 17-02: https://www.boi.go.th/upload/content/F%20PA%20PC%2017%20e-Form_69533a442c8a6.pdf
+
+### [กองทุนพัฒนาวิทยาศาสตร์และเทคโนโลยี (สวทช.)]
+• แบบแสดงความจำนง (ภาษาไทย): https://www.boi.go.th/upload/content/F-CO-PSR-12_Rev.0.pdf
+• Intent to support NSTDA (English): https://www.boi.go.th/upload/content/Intenrt_donation_form_En_nstda.pdf
+
+### [หมายเหตุ] 
+หากนักลงทุนหาไฟล์ไม่พบ ให้ตรวจสอบที่หัวข้อ "มาตรการยกระดับอุตสาหกรรม (Smart and Sustainable Industry)" ในหน้าเดียวกัน หากมีการติดตั้ง Solar Cell ร่วมด้วย (ฟอร์ม F PA PP 78-00)
+

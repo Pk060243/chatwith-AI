@@ -16,6 +16,8 @@ from slowapi import _rate_limit_exceeded_handler
 from slowapi.errors import RateLimitExceeded
 import json
 from config import token_counter
+from guide_routes import guide_router
+
 
   
 
@@ -69,6 +71,7 @@ query_engine = index.as_query_engine(similarity_top_k=3)
 query_engine.update_prompts({"response_synthesizer:text_qa_template":chat_template})
 
 app = FastAPI(title="Landlink AI API")
+app.include_router(guide_router)
 app.state.limiter = limiter
 app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
 
@@ -80,7 +83,7 @@ app.add_middleware(
     allow_headers=["*"],
     
 )
-
+ 
 MAX_MESSAGE_LENGTH = 2000
 
 # @app.get("/test-db-connection")
