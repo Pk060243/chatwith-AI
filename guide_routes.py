@@ -27,7 +27,7 @@ async def guide_search(
         results = await guide_search_logic(
             query=query.strip(),
             category=category if category != "all" else "",
-            top_k=12
+            top_k=20
         )
         return {"status": "success", "results": results, "count": len(results), "query": query}
 
